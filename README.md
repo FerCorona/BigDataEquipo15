@@ -2,5 +2,6 @@
 
 
 # INTEGRANTES EQUIPO 15
-- Carlos M. Ramirez A01795036
-- Fernando Garcia Corona A01793717
+- David García Robles      A01152606
+- Carlos M. Ramirez        A01795036
+- Fernando Garcia Corona   A01793717
